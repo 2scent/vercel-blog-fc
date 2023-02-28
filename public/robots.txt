@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://vercel-blog-fc-iota.vercel.app/
+
+# Sitemaps
+Sitemap: https://vercel-blog-fc-iota.vercel.app/sitemap.xml
